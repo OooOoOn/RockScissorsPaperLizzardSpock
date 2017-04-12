@@ -18,7 +18,7 @@ import java.net.URLConnection;
 public class ChatActivity extends AppCompatActivity implements View.OnClickListener{
 
     URLConnection connection;
-    String charset = "UTF-8";
+    final String charset = "UTF-8";
 
     EditText text;
     Button btn;

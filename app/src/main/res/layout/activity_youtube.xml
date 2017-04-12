@@ -18,7 +18,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Play"
+        android:text="@string/play_btn"
         android:id="@+id/button"
         android:layout_marginTop="20dp"
         android:layout_below="@+id/youtube_view"

@@ -7,7 +7,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="95dp"
-        android:text="Enter a slack msg below"
+        android:text="@string/enter_a_slack_msg_below"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true" />
 
@@ -35,7 +35,7 @@
         android:id="@+id/button1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Send"
+        android:text="@string/send_message"
         android:layout_below="@+id/progressBar"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="41dp" />
