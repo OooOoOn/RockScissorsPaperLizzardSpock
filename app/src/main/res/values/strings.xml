@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Rock Scissors Paper Lizzard Spock</string>
+    <string name="enter_player_name">Enter player name</string>
+    <string name="name_prompt">Enter a name</string>
+    <string name="name_confirmed">Name saved!</string>
+    <string name="winnerMessage">You Win!</string>
+    <string name="enter_a_slack_msg_below">Enter a slack msg below</string>
+    <string name="send_message">Send</string>
+    <string name="V.S">V.S</string>
+    <string name="score_display">Score: Human 0 Computer 0</string>
+    <string name="rock">Rock</string>
+    <string name="scissors">Scissors</string>
+    <string name="paper">Paper</string>
+    <string name="lizzard">lizzard</string>
+    <string name="spock">Spock</string>
+    <string name="play_btn">Play</string>
+    <string name="results">results</string>
+    <string name="new_game">New game</string>
+    <string name="feedback">Feedback</string>
+    <string name="highscore">Highscore</string>
+    <string name="rules">Rules</string>
+</resources>
